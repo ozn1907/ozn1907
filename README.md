@@ -4,7 +4,7 @@
 - 👀 I’m interested in Vue.js, Tailwind.css, Javascript and Bootstrap
 - 🌱 I’m currently learning Tailwind.css, PHP, and Vue.js
 - :speech_balloon: Ask me about anyhting
-- 📫 How to reach me ... <a href="www.linkedin.com/in/ozan-alka" target="_blank">LinkedIn</a>
+- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/ozan-alka/)
 
 
 
