@@ -2,7 +2,7 @@
 - :computer:	I'm currently working on making my own Spotify 
 - 👋 Hi, I’m @Ozan Alka
 - 👀 I’m interested in Vue.js, Tailwind.css, Javascript and Bootstrap
-- 🌱 I’m currently learning Tailwind.css, PHP, and Vue.js
+- 🌱 I’m currently learning Tailwind.css, PHP, Vue.js and Laravel
 - :speech_balloon: Ask me about anyhting
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/ozan-alka/)
 
