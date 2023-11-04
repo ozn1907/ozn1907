@@ -1,8 +1,8 @@
 ### Here is What I'm Working on 👋
 - :computer:	I'm currently working on making my own Spotify 
 - 👋 Hi, I’m @Ozan 
-- 👀 I’m interested in Tailwind.css, Javascript and PHP
-- 🌱 I’m currently learning Tailwind.css, PHP, and Laravel
+- 👀 I’m interested in PHP, Javascript
+- 🌱 I’m currently learning Laravel
 - :speech_balloon: Ask me about anything
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/ozan-alka/)
 
