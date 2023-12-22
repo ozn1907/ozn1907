@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Junior software developer, and I love to challenge myself by exploring new programming languages. I'm really into both the creative and technical sides of this field. It's all about expanding my skills and knowledge
 - :computer:	I'm currently searching for open source projects to expand my knowledge
 * 🌍  I'm based in Amsterdam
-* 🧠  I'm learning Laravel, Javascript
+* 🧠  I'm learning Laravel
 * :speech_balloon: Ask me about anything
 
 
